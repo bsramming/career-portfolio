@@ -1,0 +1,5 @@
+# Copyright (c) 2025 Brian Ramming. All rights reserved.
+
+sphinx
+sphinx_rtd_theme
+rst2pdf

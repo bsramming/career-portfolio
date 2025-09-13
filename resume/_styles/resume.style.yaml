@@ -1,0 +1,57 @@
+# Copyright (c) 2025 Brian Ramming. All rights reserved.
+
+pageSetup:
+  firstTemplate: coverPage
+  margin-bottom: 8mm
+  margin-left: 12mm
+  margin-right: 12mm
+  margin-top: 8mm
+styles:
+  attribute:
+    parent: bodytext
+  author:
+    alignment: TA_CENTER
+    fontName: fontSansBold
+    fontSize: 120%
+    parent: bodytext
+  bodytext:
+    # fontName: fontSerif
+    # fontSize: 9.5
+    # leading: 11
+    leftIndent: 10
+    rightIndent: 16
+    # spaceAfter: 6
+    # spaceBefore: 6
+  centered:
+    alignment: TA_CENTER
+    fontName: fontSerif
+    parent: bodytext
+  heading:
+    backColor: '#F2F2F2'
+    borderColor: '#CCCCCC'
+    borderPadding:
+    - 3
+    - 0
+    - 5
+    - 10
+    borderWidth: 0
+    fontName: fontSansBold
+    fontSize: 10
+    leading: 10
+    leftIndent: 0
+    spaceBefore: 20
+    spaceAfter: 8
+    textColor: '#20435C'
+    # alignment: TA_CENTER
+  heading1:
+    fontSize: 200%
+  heading2:
+    fontSize: 150%
+  heading3:
+    fontSize: 140%
+  heading4:
+    fontSize: 120%
+  heading5:
+    fontSize: 110%
+  heading6:
+    fontSize: 100%
