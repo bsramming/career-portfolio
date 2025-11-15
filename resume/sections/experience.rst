@@ -7,7 +7,7 @@ Experience
 Intel Corporation, Folsom, CA  
 *January 2009 - Present*
 
-For the past 15+ years working for Intel I have become a strong, passionate software developer, collaborator, leader, and mentor.
+For the past 16+ years working for Intel I have become a strong, passionate software developer, collaborator, leader, and mentor.
 
 Engineering Mentor & Peer Coach | 2020-Present
 ----------------------------------------------
